@@ -1,0 +1,15 @@
+D:\PersonelProject\Leetcode\UglyNumber1\UglyNumber1\obj\Debug\net6.0\UglyNumber1.csproj.AssemblyReference.cache
+D:\PersonelProject\Leetcode\UglyNumber1\UglyNumber1\obj\Debug\net6.0\UglyNumber1.GeneratedMSBuildEditorConfig.editorconfig
+D:\PersonelProject\Leetcode\UglyNumber1\UglyNumber1\obj\Debug\net6.0\UglyNumber1.AssemblyInfoInputs.cache
+D:\PersonelProject\Leetcode\UglyNumber1\UglyNumber1\obj\Debug\net6.0\UglyNumber1.AssemblyInfo.cs
+D:\PersonelProject\Leetcode\UglyNumber1\UglyNumber1\obj\Debug\net6.0\UglyNumber1.csproj.CoreCompileInputs.cache
+D:\PersonelProject\Leetcode\UglyNumber1\UglyNumber1\bin\Debug\net6.0\UglyNumber1.exe
+D:\PersonelProject\Leetcode\UglyNumber1\UglyNumber1\bin\Debug\net6.0\UglyNumber1.deps.json
+D:\PersonelProject\Leetcode\UglyNumber1\UglyNumber1\bin\Debug\net6.0\UglyNumber1.runtimeconfig.json
+D:\PersonelProject\Leetcode\UglyNumber1\UglyNumber1\bin\Debug\net6.0\UglyNumber1.dll
+D:\PersonelProject\Leetcode\UglyNumber1\UglyNumber1\bin\Debug\net6.0\UglyNumber1.pdb
+D:\PersonelProject\Leetcode\UglyNumber1\UglyNumber1\obj\Debug\net6.0\UglyNumber1.dll
+D:\PersonelProject\Leetcode\UglyNumber1\UglyNumber1\obj\Debug\net6.0\refint\UglyNumber1.dll
+D:\PersonelProject\Leetcode\UglyNumber1\UglyNumber1\obj\Debug\net6.0\UglyNumber1.pdb
+D:\PersonelProject\Leetcode\UglyNumber1\UglyNumber1\obj\Debug\net6.0\UglyNumber1.genruntimeconfig.cache
+D:\PersonelProject\Leetcode\UglyNumber1\UglyNumber1\obj\Debug\net6.0\ref\UglyNumber1.dll
